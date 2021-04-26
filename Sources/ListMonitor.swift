@@ -1050,7 +1050,7 @@ public final class ListMonitor<D: DynamicObject>: Hashable {
         let fetchRequest = CoreStoreFetchRequest<NSManagedObject>()
         fetchRequest.fetchLimit = 0
         fetchRequest.resultType = .managedObjectResultType
-        fetchRequest.fetchBatchSize = 20
+        fetchRequest.fetchBatchSize = 0
         fetchRequest.includesPendingChanges = false
         fetchRequest.shouldRefreshRefetchedObjects = true
         
