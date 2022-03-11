@@ -1,4 +1,7 @@
 <p align="center">
+ 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9b97ab4399c84bff898001e907e2caf4)](https://app.codacy.com/gh/namely/CoreStore/dashboard)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/9b97ab4399c84bff898001e907e2caf4)](https://app.codacy.com/gh/namely/CoreStore/dashboard)
 <img alt="CoreStore" src="https://github.com/JohnEstropia/CoreStore/raw/develop/CoreStore.png" width=614 />
 <br />
 <br />
