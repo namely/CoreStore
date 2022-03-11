@@ -5,8 +5,8 @@
 Unleashing the real power of Core Data with the elegance and safety of Swift
 <br />
 <br />
-<a href="https://app.codacy.com/gh/namely/CoreStore/dashboard"><img alt="Codacy Badge" href="https://app.codacy.com/project/badge/Grade/9b97ab4399c84bff898001e907e2caf4"></a>
-<a href="https://app.codacy.com/gh/namely/CoreStore/dashboard"><img alt="Codacy Badge" href="https://app.codacy.com/project/badge/Coverage/9b97ab4399c84bff898001e907e2caf4"></a>
+<a href="https://app.codacy.com/gh/namely/CoreStore/dashboard"><img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Grade/9b97ab4399c84bff898001e907e2caf4"></a>
+<a href="https://app.codacy.com/gh/namely/CoreStore/dashboard"><img alt="Codacy Badge" src="https://app.codacy.com/project/badge/Coverage/9b97ab4399c84bff898001e907e2caf4"></a>
 <a href="https://app.bitrise.io/app/e736852157296019#/builds"><img alt="Build Status" src="https://img.shields.io/bitrise/e736852157296019/master.svg?label=build&token=vhgAmaiF3tWZoQyFLkKM7g&logo=bitrise" /></a>
 <a href="https://github.com/JohnEstropia/CoreStore/commits"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/johnestropia/corestore.svg?style=flat" /></a>
 <a href="http://cocoadocs.org/docsets/CoreStore"><img alt="Platform" src="https://img.shields.io/cocoapods/p/CoreStore.svg?style=flat" /></a>
